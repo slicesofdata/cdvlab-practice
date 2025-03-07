@@ -1,4 +1,4 @@
-# start-rstudio-projects
+# cdvlab-practice
 
 For starting new RStudio projects
 
